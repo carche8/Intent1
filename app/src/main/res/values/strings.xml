@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application. Intent1</string>
+    <string name="btn">Botón página siguiente</string>
+    <string name="btn2">Botón página anterior</string>
+</resources>
